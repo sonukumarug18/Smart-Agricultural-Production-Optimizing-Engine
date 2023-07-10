@@ -1,0 +1,5 @@
+final_prediction [Model pickel file] link:
+https://drive.google.com/file/d/1OoSN0iJsY2r6CupMBifdFDtzfo6H1tnx/view?usp=sharing
+
+Scaler File Link:
+https://drive.google.com/file/d/1JsRc4tcHCDl7RghAiW4DYSaA_3R_rQpK/view?usp=sharing 
